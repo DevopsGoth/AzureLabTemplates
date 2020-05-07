@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "gitSource": {
+      "url": "https://dev.azure.com/JuneBoston/Sirius Immersion Days - Azure DevOps/_git/Sirius Immersion Days - Azure DevOps"
+    },
+    "serviceEndpointId": "$Sirius Immersion Days - Azure DevOps-code$",
+    "deleteServiceEndpointAfterImportIsDone": true
+  }
+}

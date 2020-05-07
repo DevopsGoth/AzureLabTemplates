@@ -1,0 +1,199 @@
+{
+  "count": 4,
+  "value": [
+    {
+      "id": 171,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "Sirius Immersion Days - Azure DevOps",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:01:05.54Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:17:08.6Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Learn About Azure Repos",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Work with an imported sample project to learn the basics of Azure DevOps Repos, the git-based configuration management solution for Azure<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/174",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/175",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/171"
+    },
+    {
+      "id": 172,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "Sirius Immersion Days - Azure DevOps",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:02:15.86Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:17:08.6Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Implement Infrastructure As Code",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Learn about using Azure ARM templates to manage Azure infrastructure as code<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/176",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/182",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/172"
+    },
+    {
+      "id": 173,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "Sirius Immersion Days - Azure DevOps",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:03:01.603Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:17:08.6Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Implement Azure Pipelines",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Use Azure Pipelines to automate builds, deploys, and infrastructure<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/178",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/177",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/173"
+    },
+    {
+      "id": 179,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:17:07.653Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:20:00.417Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Learn about Azure Docker Containers and Kubernetes",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/181",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/180",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/179"
+    }
+  ],
+  "HttpStatusCode": 0,
+  "Message": null
+}

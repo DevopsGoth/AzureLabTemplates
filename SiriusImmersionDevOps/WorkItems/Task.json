@@ -1,0 +1,327 @@
+{
+  "count": 8,
+  "value": [
+    {
+      "id": 182,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "Sirius Immersion Days - Azure DevOps",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:20:40.607Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:20:42.94Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Set up a Virtual Network using an ARM template",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/172",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/182"
+    },
+    {
+      "id": 174,
+      "rev": 5,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "Sirius Immersion Days - Azure DevOps",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:04:36.737Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:21:58.503Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Import sample project from GitHub to Azure Repos",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://github.com/DevopsGoth/mslearn-tailspin-spacegame-web\">https://github.com/DevopsGoth/mslearn-tailspin-spacegame-web</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/171",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/174"
+    },
+    {
+      "id": 176,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "Sirius Immersion Days - Azure DevOps",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:06:31.047Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:06:54Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Deploy a VM using an ARM template",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/172",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/176"
+    },
+    {
+      "id": 175,
+      "rev": 4,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "Sirius Immersion Days - Azure DevOps",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "Reactivated",
+        "System.CreatedDate": "2020-05-07T04:05:08.227Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:16:01.89Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Configure your local git environment to push/pull from Azure Repos",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": "June Boston <June.Boston@siriuscom.com>",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/171",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/175"
+    },
+    {
+      "id": 181,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:19:36.31Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:19:36.31Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Deploy the Docker container to AKS",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/179",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/181"
+    },
+    {
+      "id": 180,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:19:11.163Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:19:11.163Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Deploy a Docker version of the sample project",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/179",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/180"
+    },
+    {
+      "id": 178,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "Sirius Immersion Days - Azure DevOps",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:14:31.743Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:15:03.6Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Update the build pipeline to perform automatic tests",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/173",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/178"
+    },
+    {
+      "id": 177,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "Sirius Immersion Days - Azure DevOps",
+        "System.TeamProject": "Sirius Immersion Days - Azure DevOps",
+        "System.IterationPath": "Sirius Immersion Days - Azure DevOps",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-07T04:07:38.663Z",
+        "System.CreatedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.ChangedDate": "2020-05-07T04:07:38.663Z",
+        "System.ChangedBy": "June Boston <June.Boston@siriuscom.com>",
+        "System.Title": "Create a build pipeline for the sample project",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/173",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/JuneBoston/_apis/wit/workItems/177"
+    }
+  ],
+  "HttpStatusCode": 0,
+  "Message": null
+}
